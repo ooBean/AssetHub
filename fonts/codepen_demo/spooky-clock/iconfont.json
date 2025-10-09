@@ -1,0 +1,16 @@
+{
+  "id": "5036024",
+  "name": "spooky-clock",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "42168993",
+      "name": "万圣节-食尸鬼",
+      "font_class": "wanshengjie-shishigui",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    }
+  ]
+}
