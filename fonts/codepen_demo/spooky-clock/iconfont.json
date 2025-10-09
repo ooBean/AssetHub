@@ -6,6 +6,111 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "3745837",
+      "name": "恐怖电影——幽灵",
+      "font_class": "kongbudianyingyouling",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5017290",
+      "name": "糖果",
+      "font_class": "tangguo",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "5172478",
+      "name": "南瓜",
+      "font_class": "shucai-",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "5220053",
+      "name": "房子",
+      "font_class": "fangzi",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "5483913",
+      "name": "糖果",
+      "font_class": "tangguo1",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "7288841",
+      "name": "糖果棒",
+      "font_class": "tangguobang",
+      "unicode": "efe3",
+      "unicode_decimal": 61411
+    },
+    {
+      "icon_id": "7795594",
+      "name": "糖果",
+      "font_class": "tangguo2",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "8138957",
+      "name": "蜘蛛万圣节",
+      "font_class": "Halloween-",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "8138973",
+      "name": "墓碑万圣节",
+      "font_class": "Halloween-1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "30884096",
+      "name": "桶",
+      "font_class": "tong",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "42168989",
+      "name": "万圣节-南瓜灯",
+      "font_class": "wanshengjie-nanguadeng",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "44797175",
+      "name": "万圣节",
+      "font_class": "wanshengjie",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "15432422",
+      "name": "太阳",
+      "font_class": "taiyang",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "2092217",
+      "name": "午夜",
+      "font_class": "wuye",
+      "unicode": "e789",
+      "unicode_decimal": 59273
+    },
+    {
+      "icon_id": "45720516",
+      "name": "午夜-copy",
+      "font_class": "wuye-copy",
+      "unicode": "efe4",
+      "unicode_decimal": 61412
+    },
+    {
       "icon_id": "42168993",
       "name": "万圣节-食尸鬼",
       "font_class": "wanshengjie-shishigui",

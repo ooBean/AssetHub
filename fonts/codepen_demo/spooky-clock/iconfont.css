@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 5036024 */
-  src: url('iconfont.woff2?t=1759976684488') format('woff2'),
-       url('iconfont.woff?t=1759976684488') format('woff'),
-       url('iconfont.ttf?t=1759976684488') format('truetype');
+  src: url('iconfont.woff2?t=1759991908689') format('woff2'),
+       url('iconfont.woff?t=1759991908689') format('woff'),
+       url('iconfont.ttf?t=1759991908689') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,66 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-kongbudianyingyouling:before {
+  content: "\e607";
+}
+
+.icon-tangguo:before {
+  content: "\e62d";
+}
+
+.icon-shucai-:before {
+  content: "\e688";
+}
+
+.icon-fangzi:before {
+  content: "\e601";
+}
+
+.icon-tangguo1:before {
+  content: "\e743";
+}
+
+.icon-tangguobang:before {
+  content: "\efe3";
+}
+
+.icon-tangguo2:before {
+  content: "\e60c";
+}
+
+.icon-Halloween-:before {
+  content: "\e609";
+}
+
+.icon-Halloween-1:before {
+  content: "\e60b";
+}
+
+.icon-tong:before {
+  content: "\e655";
+}
+
+.icon-wanshengjie-nanguadeng:before {
+  content: "\e6ad";
+}
+
+.icon-wanshengjie:before {
+  content: "\e606";
+}
+
+.icon-taiyang:before {
+  content: "\e69f";
+}
+
+.icon-wuye:before {
+  content: "\e789";
+}
+
+.icon-wuye-copy:before {
+  content: "\efe4";
 }
 
 .icon-wanshengjie-shishigui:before {
